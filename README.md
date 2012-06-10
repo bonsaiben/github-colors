@@ -1,7 +1,7 @@
 github-colors
 =============
 
-GitHub-style syntax highlighting for Vim
+GitHub-style syntax highlighting for vim
 
 Based on Anthony Carapetis' color file for gvim: https://github.com/acarapetis/vim-github-theme
 
