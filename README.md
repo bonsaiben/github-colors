@@ -17,5 +17,5 @@ Move `github.vim` to your `.vim/colors` directory.
 Todo
 ----
 
-* Highlight class and module names correctly.
+* Highlight Ruby class and module names correctly
 * Add tweaks for other languages
