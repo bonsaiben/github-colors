@@ -2,7 +2,7 @@
 "
 " Author: Benjamin Sullivan <bsullivan2@gmail.com>
 "
-" Note: Mimics github's syntax highlighting theme for vim
+" Note: Mimics github's syntax highlighting
 "       Based on Anthony Carapetis' color file for gvim:
 "       https://github.com/acarapetis/vim-github-theme
 
