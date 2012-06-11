@@ -13,6 +13,13 @@ Installation
 
 Move `github.vim` to your `.vim/colors` directory.
 
+Font
+----
+
+GitHub uses "Bitstream Vera Sans Mono" for code.
+
+It can be downloaded here:
+http://www-old.gnome.org/fonts/
 
 Todo
 ----
